@@ -102,7 +102,7 @@ void generate_gnuplot_script(const std::string& filename) {
 int main() {
     double radius = 1000;
     double frequency = 1.2e9; // 1.2 GHz
-    double delta_phi = 0;
+    double delta_phi = M_PI / 4;
     int nbs = 40;
     ElectricField eF(4. / nbs, nbs, frequency, delta_phi);
 
