@@ -99,7 +99,7 @@ void generate_gnuplot_script(const std::string& filename) {
 }
 
 // Fonction de simulation et de génération des graphiques
-void plotGraphs() {
+int main() {
     double radius = 1000;
     double frequency = 1.2e9; // 1.2 GHz
     double delta_phi = 0;
