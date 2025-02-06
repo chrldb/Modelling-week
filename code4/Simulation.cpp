@@ -131,7 +131,7 @@ int main(int argc, char* argv[]) {
     int nbs = std::stoi(argv[1]);
     double d = std::stod(argv[2]);
     double frequency = std::stod(argv[3]);
-    double delta_phi = std::stod(argv[4]);
+    double delta_phi = 0;
     
     ElectricField eF(4./nbs, nbs, frequency, delta_phi);
 
