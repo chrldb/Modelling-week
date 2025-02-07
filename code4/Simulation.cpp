@@ -174,6 +174,7 @@ int main(int argc, char* argv[]) {
     // Lancer Gnuplot automatiquement
     std::cout << "Génération du graphique...\n";
     system("gnuplot cartesian_plot.gnu");
-
+    
+    return 0;
 
 }
