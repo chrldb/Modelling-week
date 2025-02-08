@@ -54,6 +54,3 @@ Default parameters in the code:
 ## Notes
 - The script automatically opens the generated image (`cartesian_plot.png`).
 - Ensure Gnuplot is correctly installed and accessible via command line.
-
-## Author
-Developed by Charles for antenna radiation pattern analysis and visualization.
