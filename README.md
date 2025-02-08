@@ -7,7 +7,7 @@ This repository contains multiple C++ programs related to antenna modeling and r
 The repository includes the following main programs:
 
 ### 1. **Gain Calculation Based on Theta**
-   - Computes the gain of the antenna as a function of the angle $ \theta $ for a given radius.
+   - Computes the gain of the antenna as a function of the angle $\theta$ for a given radius.
    - Helps analyze how the gain changes with the observation angle.
    - Outputs data that can be plotted using Gnuplot.
 
