@@ -37,23 +37,9 @@ Each program is compiled and executed separately. Below is an example compilatio
  ./antenna_simulation <parameters>
 ```
 
-### Example Run Commands
-#### **Gain Calculation**
-```bash
-./antenna_gain 40 1.2e9
-```
-#### **Far-Field Power Calculation**
-```bash
-./far_field_power 40 1.2e9 0.1 0.5
-```
-#### **Phase Shift Simulation**
-```bash
-./phase_shift_simulation 40 1.2e9 -pi/4 pi/4
-```
-#### **Windowed Beamforming**
-```bash
-./beamforming_window 40 1.2e9 chebyshev -30.0
-```
+### Run the programs
+
+For each program, a corresponding .md file is provided with instructions on how to run it.
 
 ## Visualization
 Each program generates output files and a .png picture using **Gnuplot**. 
