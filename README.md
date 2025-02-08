@@ -17,7 +17,7 @@ The repository includes the following main programs:
    - Helps understand the impact of distance on power reception.
 
 ### 3. **Phase Shift Modeling for Scanning a Given Range**
-   - Determines the number of phase shifts required to scan a given angular range (e.g., $-\pi/4$ to $+\pi/4$).
+   - Determines the number of phase shifts required to scan a given angular range (e.g., $-\frac{\pi}{4}$ to $+\frac{\pi}{4}$).
    - Ensures proper beam coverage with overlapping lobes at $-3$ dB.
    - Simulates scanning time based on round-trip travel time of radar signals.
 
