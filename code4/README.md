@@ -49,6 +49,3 @@ The resulting plot represents the **power gain (dB) vs. angle (°)**:
 ## Notes
 - The far-field approximation is valid for distances much greater than the array size.
 - The model assumes **ideal** antenna elements without mutual coupling.
-
----
-For further improvements, consider implementing **adaptive beamforming** techniques or **custom window functions** for better sidelobe suppression.
